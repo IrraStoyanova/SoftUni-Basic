@@ -2,4 +2,4 @@
 Exercises from Programming with Java Basic course in SoftUni
 
 
-https://softuni.bg/certificates/details/125076/310b36ba
+Certificate from Programming Basics with Java - https://softuni.bg/certificates/details/125076/310b36ba
